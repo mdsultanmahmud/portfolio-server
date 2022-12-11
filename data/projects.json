@@ -1,0 +1,95 @@
+[
+    {
+        "id":1,
+        "name":"Fast Delivery",
+        "image": "https://i.ibb.co/1Z9FyQ9/fast-Delivery.png",
+        "price": 34,
+        "live":"https://food-delivery-b6c59.web.app/",
+        "picture":{
+            "pic1":"https://i.ibb.co/K9ZyYGP/fastTwo.png",
+            "pic2":"https://i.ibb.co/fv0TrTN/fastOne.png",
+            "pic3":"https://i.ibb.co/nRjjCW2/fast-Three.png"
+        },
+        "code":{
+            "client":"https://github.com/mdsultanmahmud/food-delivery",
+            "server":"https://github.com/mdsultanmahmud/food-delivery-server"
+        },
+        "details":{
+            "para1":"Email, Password login",
+            "para2":"Goggle sign in method",
+            "para3":"Mobile, Desktop, Tablet responsive",
+            "para4":"Firebase Authentication",
+            "para5":"Dynamic router",
+            "para6":"Add service which stored in database",
+            "para7":"Add review for each services which also stored in database",
+            "para8":"Added a loader when webpage is loading"
+        },
+        "technology":{
+            "client":"React, Firebase,TailwindCSS, Daisy Ui",
+            "server":"Node, Express"
+        },
+        "description":"This is a food delivery website. A user can review any food. Review stored in a database, a user whoreviewed he/she can see his/her own reviewed information in my reviews page. Some pages includeadmin routes. Only the admin can see this."
+    },
+    {
+        "id":2,
+        "name":"Car Repaire",
+        "image": "https://i.ibb.co/fr6PNQs/car-Repaire.png",
+        "price": 34,
+        "live":"https://car-repaire-mongodb-e0738.web.app/",
+        "picture":{
+            "pic1":"https://i.ibb.co/Z2Zf6kd/CarTwo.png",
+            "pic2":"https://i.ibb.co/KhKNPxN/CarOne.png",
+            "pic3":"https://i.ibb.co/ngmbxnt/CarThree.png"
+        },
+        "code":{
+            "client":"https://github.com/mdsultanmahmud/car-repaire-mongodb",
+            "server":"https://github.com/mdsultanmahmud/car-with-mongodb-server"
+        },
+        "details":{
+            "para1":"Email, Password login",
+            "para2":"Goggle sign in method",
+            "para3":"Mobile, Desktop, Tablet responsive",
+            "para4":"Firebase Authentication",
+            "para5":"Dynamic router",
+            "para6":"Car booking and user data save into database",
+            "para7":"User can delete or modify his/her own data",
+            "para8":"Added a loader when webpage is loading"
+        },
+        "technology":{
+            "client":"React, Firebase,TailwindCSS, Daisy Ui",
+            "server":"Node, Express, MongoDB"
+        },
+        "description":"Reparing car parts based website. A user can book any parts for reparing. For reparing user must logged in."
+    },
+    {
+        "id":3,
+        "name":"Mobile Candy",
+        "image": "https://i.ibb.co/bWshrZ6/mobile-Candy.png",
+        "price": 34,
+        "live":"https://mobile-candy-25ab9.web.app/",
+        "picture":{
+            "pic1":"https://i.ibb.co/YXngMB0/mobile-One.png",
+            "pic2":"https://i.ibb.co/hVvNjtt/mobile-Two.png",
+            "pic3":"https://i.ibb.co/S6RCRF2/mobile-Three.png"
+        },
+        "code":{
+            "client":"https://github.com/mdsultanmahmud/mobile-candy",
+            "server":"https://github.com/mdsultanmahmud/mobile-candy-server"
+        },
+        "details":{
+            "para1":"Email, Password login",
+            "para2":"Goggle sign in method",
+            "para3":"Mobile, Desktop, Tablet responsive",
+            "para4":"Firebase Authentication",
+            "para5":"User will be buyer or seller",
+            "para6":"Stripe card payment",
+            "para7":"User verification by jwt token",
+            "para8":"A seller can sell his/her used phone, he can delete or modify his/her resale post."
+        },
+        "technology":{
+            "client":"React, Firebase,TailwindCSS, Daisy Ui, jwt token, stripe payment method",
+            "server":"Node, Express"
+        },
+        "description":"Website based on used mobile. A buyer can buy a used mobile and a seller can sell his/her used mobile. Where implement stripe card payment methods."
+    }
+]
