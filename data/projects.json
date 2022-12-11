@@ -14,16 +14,7 @@
             "client":"https://github.com/mdsultanmahmud/food-delivery",
             "server":"https://github.com/mdsultanmahmud/food-delivery-server"
         },
-        "details":{
-            "para1":"Email, Password login",
-            "para2":"Goggle sign in method",
-            "para3":"Mobile, Desktop, Tablet responsive",
-            "para4":"Firebase Authentication",
-            "para5":"Dynamic router",
-            "para6":"Add service which stored in database",
-            "para7":"Add review for each services which also stored in database",
-            "para8":"Added a loader when webpage is loading"
-        },
+        "details":["Email, Password login","Goggle sign in method","Mobile, Desktop, Tablet responsive","Firebase Authentication", "Dynamic router", "Add service which stored in database", "Add review for each services which also stored in database", "Added a loader when webpage is loading"],
         "technology":{
             "client":"React, Firebase,TailwindCSS, Daisy Ui",
             "server":"Node, Express"
@@ -45,16 +36,7 @@
             "client":"https://github.com/mdsultanmahmud/car-repaire-mongodb",
             "server":"https://github.com/mdsultanmahmud/car-with-mongodb-server"
         },
-        "details":{
-            "para1":"Email, Password login",
-            "para2":"Goggle sign in method",
-            "para3":"Mobile, Desktop, Tablet responsive",
-            "para4":"Firebase Authentication",
-            "para5":"Dynamic router",
-            "para6":"Car booking and user data save into database",
-            "para7":"User can delete or modify his/her own data",
-            "para8":"Added a loader when webpage is loading"
-        },
+        "details":["Email, Password login","Goggle sign in method","Mobile, Desktop, Tablet responsive","Firebase Authentication", "Dynamic router", "Car booking and user data save into database", "User can delete or modify his/her own data", "Added a loader when webpage is loading"],
         "technology":{
             "client":"React, Firebase,TailwindCSS, Daisy Ui",
             "server":"Node, Express, MongoDB"
@@ -76,16 +58,7 @@
             "client":"https://github.com/mdsultanmahmud/mobile-candy",
             "server":"https://github.com/mdsultanmahmud/mobile-candy-server"
         },
-        "details":{
-            "para1":"Email, Password login",
-            "para2":"Goggle sign in method",
-            "para3":"Mobile, Desktop, Tablet responsive",
-            "para4":"Firebase Authentication",
-            "para5":"User will be buyer or seller",
-            "para6":"Stripe card payment",
-            "para7":"User verification by jwt token",
-            "para8":"A seller can sell his/her used phone, he can delete or modify his/her resale post."
-        },
+        "details":["Email, Password login","Goggle sign in method","Mobile, Desktop, Tablet responsive","Firebase Authentication", "Stripe card payment","User will be buyer or seller", "Add service which stored in database", "User verification by jwt token", "A seller can sell his/her used phone, he can delete or modify his/her resale post."],
         "technology":{
             "client":"React, Firebase,TailwindCSS, Daisy Ui, jwt token, stripe payment method",
             "server":"Node, Express"

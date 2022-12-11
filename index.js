@@ -5,10 +5,6 @@ const cors = require('cors')
 const projects = require('./data/projects.json')
 // middleware 
 app.use(cors())
-
-// import data 
-// const project = './data/projects.json'
-// console.log(projects)
 app.get('/', (req,res) =>{
     res.send('server is running')
 })
@@ -23,7 +19,6 @@ app.get('/projects', (req, res) =>{
 
 app.get('/projects/:id', (req, res) =>{
     const id = req.params.id
-    console.log(id)
     const project = projects.find(pro => pro.id == id)
     console.log(project)
     res.send(project)
